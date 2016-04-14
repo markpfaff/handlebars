@@ -1,0 +1,22 @@
+{
+  "name": "handlebars",
+  "version": "1.0.0",
+  "description": "First handlebars test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markpfaff/handlebars.git"
+  },
+  "author": "Mark Pfaff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markpfaff/handlebars/issues"
+  },
+  "homepage": "https://github.com/markpfaff/handlebars#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0"
+  }
+}
